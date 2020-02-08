@@ -1,0 +1,11 @@
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\bin\Debug\netcoreapp3.1\Lab2_Builder.exe
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\bin\Debug\netcoreapp3.1\Lab2_Builder.deps.json
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\bin\Debug\netcoreapp3.1\Lab2_Builder.runtimeconfig.json
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\bin\Debug\netcoreapp3.1\Lab2_Builder.runtimeconfig.dev.json
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\bin\Debug\netcoreapp3.1\Lab2_Builder.dll
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\bin\Debug\netcoreapp3.1\Lab2_Builder.pdb
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\obj\Debug\netcoreapp3.1\Lab2_Builder.csprojAssemblyReference.cache
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\obj\Debug\netcoreapp3.1\Lab2_Builder.AssemblyInfoInputs.cache
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\obj\Debug\netcoreapp3.1\Lab2_Builder.AssemblyInfo.cs
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\obj\Debug\netcoreapp3.1\Lab2_Builder.dll
+C:\Users\Василий\source\repos\Software Architecture Design\Lab2_Builder\obj\Debug\netcoreapp3.1\Lab2_Builder.pdb

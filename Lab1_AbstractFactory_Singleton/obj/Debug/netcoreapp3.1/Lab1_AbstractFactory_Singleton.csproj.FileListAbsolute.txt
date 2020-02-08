@@ -1,0 +1,11 @@
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.exe
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.deps.json
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.runtimeconfig.json
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.runtimeconfig.dev.json
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.dll
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.pdb
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.csprojAssemblyReference.cache
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.AssemblyInfoInputs.cache
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.AssemblyInfo.cs
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.dll
+C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.pdb
