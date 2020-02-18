@@ -1,0 +1,33 @@
+@startuml Class Diagram
+
+Composite -|> Component
+Leaf -|> Composite
+
+class Composite {
+    name: string
+    
+    Component(name string)
+    override Add(component Component)
+    override Remove(component Component)
+    override IsComponent() bool
+    override Display(depth int)
+}
+
+class Component {
+    name: string
+    
+    Component(name string)
+    Add(component Component)
+    Remove(component Component)
+    IsComponent() bool
+    Display(depth int)
+}
+
+class Leaf {
+    
+    Leaf(name string)
+    override IsComponent() bool
+    override Display(depth int)
+}
+
+@enduml

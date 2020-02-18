@@ -14,7 +14,9 @@
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "externalTerminal",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "plantuml.diagramsRoot": "Lab4_Composite/Diagrams",
+            "plantuml.exportOutDir": "Lab4_Composite/Diagrams"
         },
         {
             "name": ".NET Core Attach",

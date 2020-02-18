@@ -2,6 +2,8 @@
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
     "version": "2.0.0",
+    "plantuml.diagramsRoot": "Lab4_Composite/Diagrams",
+"plantuml.exportOutDir": "Lab4_Composite/Diagrams",
     "tasks": [
         {
             "label": "build",
@@ -12,7 +14,7 @@
                 // Ask dotnet build to generate full paths for file names.
                 "/property:GenerateFullPaths=true",
                 // Do not generate summary otherwise it leads to duplicate errors in Problems panel
-                "/consoleloggerparameters:NoSummary"
+                "/consoleloggerparameters:NoSummary"               
             ],
             "group": "build",
             "presentation": {
