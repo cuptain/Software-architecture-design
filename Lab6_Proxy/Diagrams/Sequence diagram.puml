@@ -1,0 +1,43 @@
+@startuml Sequence Diagram
+
+skinparam Style strictuml
+skinparam SequenceMessageAlignment center
+
+participant "Program" as P
+participant "Proxy" as Proxy
+participant "ComponentStore" as CS
+participant "ComponentContext" as CC
+participant "Component" as C
+
+P -> Proxy: new
+activate P
+activate Proxy
+
+Proxy --> P: component
+deactivate Proxy
+
+P -> Proxy: component.GetComponent(1)
+activate Proxy
+
+Proxy -> CS: GetComponent(1)
+activate CS
+
+CS -> CC: GetComponent(1)
+activate CC
+
+CC --> CS: Component
+deactivate CC
+
+CS --> Proxy: Component
+deactivate CS
+
+Proxy --> P: component1
+deactivate Proxy
+
+P -> C: component1.GetFunction()
+activate C
+
+C --> P: output
+deactivate C
+
+@enduml
