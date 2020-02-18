@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\bin\Debug\netcoreapp3.1\Lab6_Proxy.exe
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\bin\Debug\netcoreapp3.1\Lab6_Proxy.deps.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\bin\Debug\netcoreapp3.1\Lab6_Proxy.runtimeconfig.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\bin\Debug\netcoreapp3.1\Lab6_Proxy.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\bin\Debug\netcoreapp3.1\Lab6_Proxy.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\bin\Debug\netcoreapp3.1\Lab6_Proxy.pdb
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\obj\Debug\netcoreapp3.1\Lab6_Proxy.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\obj\Debug\netcoreapp3.1\Lab6_Proxy.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\obj\Debug\netcoreapp3.1\Lab6_Proxy.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\obj\Debug\netcoreapp3.1\Lab6_Proxy.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab6_Proxy\obj\Debug\netcoreapp3.1\Lab6_Proxy.pdb
