@@ -1,0 +1,59 @@
+@startuml Class Diagram
+
+skinparam Style strictuml
+skinparam SequenceMessageAlignment center
+
+participant "Program" as P
+participant "Component" as Compon
+participant "Leaf" as L
+participant "Composite" as Compos
+
+P -> Compos: new
+activate P
+activate Compos
+
+Compos --> P: Car
+
+P -> Compos: new
+
+Compos --> P: Engine
+
+P -> Compon: Car.Add(Engine)
+activate Compon
+
+Compon -> Compos: Add(Engine)
+deactivate Compon
+
+P -> L : new
+activate L
+L -->P : Cylinder block
+deactivate L
+
+P -> Compon: Engine.Add(cylinderBlock)
+activate Compon
+
+Compon -> Compos: Add(cylinderBlock)
+deactivate Compon
+
+P -> Compos: new
+
+Compos --> P: Suspension
+
+P -> Compon: Car.Add(Suspension)
+activate Compon
+
+Compon -> Compos: Add(Suspension)
+deactivate Compon
+
+P -> L : new
+activate L
+L -->P : Cylinder block
+deactivate L
+
+P -> Compon: Engine.Add(Springs)
+activate Compon
+
+Compon -> Compos: Add(Springs)
+deactivate Compon
+
+@enduml
