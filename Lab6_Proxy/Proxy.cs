@@ -1,62 +1,28 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Lab6_Proxy
 {
-    public class Proxy : EmployeesLoader
+    public class Proxy : IComponent
     {
-        private EmployeesList _employeesList;
-
-        private bool _access;
-        
-        public Proxy(bool access)
+        List<Component> components;
+        ComponentStore componentStore;
+        public Proxy()
         {
-            _access = access;
+            components = new List<Component>();
         }
-
-        public void ChangeAccess(bool access)
+        public Component GetComponent(int id)
         {
-            _access = access;
-        }
-
-        public Employee GetEmployee(int id)
-        {
-            RequestStartTest();
-            Employee emp = _employeesList.GetEmployee(id);
-            return emp;
-        }
-
-        public int GetEmployeesCount()
-        {
-            RequestStartTest();
-            int count = _employeesList.GetEmployeesCount();
-            return count;
-        }
-
-        public Employee[] GetEmployees()
-        {
-            RequestStartTest();
-            Employee[] employees = _employeesList.GetEmployees();
-            return employees;
-        }
-
-        private void RequestStartTest()
-        {
-            TestAccess();
-            TestEmployeeList();
-        }
-
-        private void TestEmployeeList()
-        {
-            if (_employeesList == null)
+            Component component = components.FirstOrDefault(c => c.id == id);
+            if(component == null)
             {
-                _employeesList = new EmployeesList();
+                if (componentStore == null)
+                    componentStore = new ComponentStore();
+                component = componentStore.GetComponent(id);
+                components.Add(component);
             }
-        }
-
-        private void TestAccess()
-        {
-            if (!_access) { }
-            throw new Exception("Нет доступа");
+            return component;
         }
     }
 }
