@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\bin\Debug\netcoreapp3.1\Lab4_Composite.exe
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\bin\Debug\netcoreapp3.1\Lab4_Composite.deps.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\bin\Debug\netcoreapp3.1\Lab4_Composite.runtimeconfig.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\bin\Debug\netcoreapp3.1\Lab4_Composite.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\bin\Debug\netcoreapp3.1\Lab4_Composite.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\bin\Debug\netcoreapp3.1\Lab4_Composite.pdb
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\obj\Debug\netcoreapp3.1\Lab4_Composite.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\obj\Debug\netcoreapp3.1\Lab4_Composite.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\obj\Debug\netcoreapp3.1\Lab4_Composite.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\obj\Debug\netcoreapp3.1\Lab4_Composite.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Composite\obj\Debug\netcoreapp3.1\Lab4_Composite.pdb

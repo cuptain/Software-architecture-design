@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\bin\Debug\netcoreapp3.1\Lab4_Linker.exe
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\bin\Debug\netcoreapp3.1\Lab4_Linker.deps.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\bin\Debug\netcoreapp3.1\Lab4_Linker.runtimeconfig.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\bin\Debug\netcoreapp3.1\Lab4_Linker.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\bin\Debug\netcoreapp3.1\Lab4_Linker.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\bin\Debug\netcoreapp3.1\Lab4_Linker.pdb
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\obj\Debug\netcoreapp3.1\Lab4_Linker.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\obj\Debug\netcoreapp3.1\Lab4_Linker.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\obj\Debug\netcoreapp3.1\Lab4_Linker.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\obj\Debug\netcoreapp3.1\Lab4_Linker.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab4_Linker\obj\Debug\netcoreapp3.1\Lab4_Linker.pdb

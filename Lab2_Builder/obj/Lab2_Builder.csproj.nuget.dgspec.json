@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Василий\\source\\repos\\Software Architecture Design\\Lab2_Builder\\Lab2_Builder.csproj": {}
+    "C:\\Users\\Acer\\source\\repos\\Software Architecture Design\\Lab2_Builder\\Lab2_Builder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Василий\\source\\repos\\Software Architecture Design\\Lab2_Builder\\Lab2_Builder.csproj": {
+    "C:\\Users\\Acer\\source\\repos\\Software Architecture Design\\Lab2_Builder\\Lab2_Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Василий\\source\\repos\\Software Architecture Design\\Lab2_Builder\\Lab2_Builder.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\Software Architecture Design\\Lab2_Builder\\Lab2_Builder.csproj",
         "projectName": "Lab2_Builder",
-        "projectPath": "C:\\Users\\Василий\\source\\repos\\Software Architecture Design\\Lab2_Builder\\Lab2_Builder.csproj",
-        "packagesPath": "C:\\Users\\Василий\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Василий\\source\\repos\\Software Architecture Design\\Lab2_Builder\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\source\\repos\\Software Architecture Design\\Lab2_Builder\\Lab2_Builder.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\source\\repos\\Software Architecture Design\\Lab2_Builder\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Василий\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

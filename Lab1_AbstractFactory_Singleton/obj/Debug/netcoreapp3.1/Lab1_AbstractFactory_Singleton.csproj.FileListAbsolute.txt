@@ -9,3 +9,14 @@ C:\Users\Василий\source\repos\Software Architecture Design\Software Archi
 C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.AssemblyInfo.cs
 C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.dll
 C:\Users\Василий\source\repos\Software Architecture Design\Software Architecture Design\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.pdb
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.exe
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.deps.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.runtimeconfig.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\bin\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.pdb
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab1_AbstractFactory_Singleton\obj\Debug\netcoreapp3.1\Lab1_AbstractFactory_Singleton.pdb
