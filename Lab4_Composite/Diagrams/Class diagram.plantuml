@@ -1,7 +1,10 @@
 @startuml Class Diagram
 
+skinparam Linetype =
+
 Composite -|> Component
-Leaf -|> Composite
+Leaf -|> Component
+Composite "1" o-u- "n" Component 
 
 class Composite {
     name: string
