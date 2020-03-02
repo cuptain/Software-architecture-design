@@ -9,25 +9,24 @@ namespace Lab8_Interpreter
         static void Main(string[] args)
         {
             Context context = new Context();
-            // определяем набор переменных
-            int x = 5;
-            int y = 8;
-            int z = 2;
 
-            // добавляем переменные в контекст
-            context.SetVariable("x", x);
-            context.SetVariable("y", y);
-            context.SetVariable("z", z);
-            // создаем объект для вычисления выражения x + y - z
+            int a = 15;
+            int b = 7;
+            int c = 2;
+
+            context.SetVariable("a", a);
+            context.SetVariable("b", b);
+            context.SetVariable("c", c);
+
             IExpression expression = new SubtractExpression(
                 new AddExpression(
-                    new NumberExpression("x"), new NumberExpression("y")
+                    new NumberExpression("a"), new NumberExpression("b")
                 ),
-                new NumberExpression("z")
+                new NumberExpression("c")
             );
 
             int result = expression.Interpret(context);
-            Console.WriteLine("результат: {0}", result);
+            Console.WriteLine("Результат: " + result);
 
             Console.ReadKey();
 

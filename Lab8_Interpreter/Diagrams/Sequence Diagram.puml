@@ -1,0 +1,92 @@
+@startuml Sequence Diagram
+
+skinparam Style strictuml
+skinparam SequenceMessageAlignment center
+
+participant "Client" as C
+participant "Context" as Con
+participant "IExpression" as I
+participant "NumberExpression" as N
+participant "AddExpression" as Add
+participant "SubtractExpression" as Sub
+
+C -> Con: create()
+activate C
+activate Con
+
+Con --> C: return Context
+deactivate Con
+
+C -> I: new IExpression
+activate I
+
+I -> N: new NumberExpression(a)
+activate N
+
+N --> I: NumberExpresion
+deactivate N
+
+I -> N: new NumberExpression(b)
+activate N
+
+N --> I: NumberExpresion
+deactivate N
+
+I -> Add: new AddExpression(left, right)
+activate Add
+
+Add --> I: AddExpresion
+deactivate Add
+
+I -> N: new NumberExpression(b)
+activate N
+
+N --> I: NumberExpresion
+deactivate N
+
+I -> Sub: new SubtractExpression(left, right)
+activate Sub
+
+Sub --> I: SubtractExpresion
+deactivate Sub
+
+I --> C: Expression
+deactivate I
+
+C -> I: Interpret(context)
+activate I
+
+I -> N: Interpret(context)
+activate N
+
+N --> I: return
+deactivate N
+
+I -> N: Interpret(context)
+activate N
+
+N --> I: return
+deactivate N
+
+I -> Add: Interpret(context)
+activate Add
+
+Add --> I: return
+deactivate Add
+
+I -> N: Interpret(context)
+activate N
+
+N --> I: return
+deactivate N
+
+I -> Sub: Interpret(context)
+activate Sub
+
+Sub --> I: return
+deactivate Sub
+
+I --> C: return
+deactivate I
+
+@enduml
