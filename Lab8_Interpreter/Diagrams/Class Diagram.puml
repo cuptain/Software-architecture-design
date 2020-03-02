@@ -1,6 +1,6 @@
 @startuml Class Diagram
 
-class "Context" as Con {
+class "Context" as C {
     variables: Dictionary<string, int>
     
     Context()
@@ -41,9 +41,11 @@ class "Program" as P {
 }
 
 
-C -> Con
-C -> I
-I -|> N
+P -left-> C
+P -> I
+I -up-|> N
+I -up-|> Add
+I -up-|> Sub
 
 
 @enduml
