@@ -3,21 +3,21 @@
 skinparam Style strictuml
 skinparam SequenceMessageAlignment center
 
-participant "Client" as C
+participant "Program" as P
 participant "Context" as Con
 participant "IExpression" as I
 participant "NumberExpression" as N
 participant "AddExpression" as Add
 participant "SubtractExpression" as Sub
 
-C -> Con: create()
-activate C
+P -> Con: create()
+activate P
 activate Con
 
-Con --> C: return Context
+Con --> P: return Context
 deactivate Con
 
-C -> I: new IExpression
+P -> I: new IExpression
 activate I
 
 I -> N: new NumberExpression(a)
@@ -50,10 +50,10 @@ activate Sub
 Sub --> I: SubtractExpresion
 deactivate Sub
 
-I --> C: Expression
+I --> P: Expression
 deactivate I
 
-C -> I: Interpret(context)
+P -> I: Interpret(context)
 activate I
 
 I -> N: Interpret(context)
@@ -86,7 +86,7 @@ activate Sub
 Sub --> I: return
 deactivate Sub
 
-I --> C: return
+I --> P: return
 deactivate I
 
 @enduml
