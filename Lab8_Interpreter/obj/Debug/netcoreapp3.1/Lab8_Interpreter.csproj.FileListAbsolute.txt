@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\bin\Debug\netcoreapp3.1\Lab8_Interpreter.exe
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\bin\Debug\netcoreapp3.1\Lab8_Interpreter.deps.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\bin\Debug\netcoreapp3.1\Lab8_Interpreter.runtimeconfig.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\bin\Debug\netcoreapp3.1\Lab8_Interpreter.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\bin\Debug\netcoreapp3.1\Lab8_Interpreter.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\bin\Debug\netcoreapp3.1\Lab8_Interpreter.pdb
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\obj\Debug\netcoreapp3.1\Lab8_Interpreter.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\obj\Debug\netcoreapp3.1\Lab8_Interpreter.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\obj\Debug\netcoreapp3.1\Lab8_Interpreter.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\obj\Debug\netcoreapp3.1\Lab8_Interpreter.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab8_Interpreter\obj\Debug\netcoreapp3.1\Lab8_Interpreter.pdb
