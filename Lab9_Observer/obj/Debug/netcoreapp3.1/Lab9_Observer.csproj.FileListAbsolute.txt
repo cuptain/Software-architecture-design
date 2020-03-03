@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\bin\Debug\netcoreapp3.1\Lab9_Observer.exe
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\bin\Debug\netcoreapp3.1\Lab9_Observer.deps.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\bin\Debug\netcoreapp3.1\Lab9_Observer.runtimeconfig.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\bin\Debug\netcoreapp3.1\Lab9_Observer.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\bin\Debug\netcoreapp3.1\Lab9_Observer.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\bin\Debug\netcoreapp3.1\Lab9_Observer.pdb
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\obj\Debug\netcoreapp3.1\Lab9_Observer.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\obj\Debug\netcoreapp3.1\Lab9_Observer.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\obj\Debug\netcoreapp3.1\Lab9_Observer.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\obj\Debug\netcoreapp3.1\Lab9_Observer.dll
+C:\Users\Acer\source\repos\Software Architecture Design\Lab9_Observer\obj\Debug\netcoreapp3.1\Lab9_Observer.pdb

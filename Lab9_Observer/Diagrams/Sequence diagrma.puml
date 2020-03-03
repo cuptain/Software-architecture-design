@@ -1,0 +1,54 @@
+@startuml Sequence Diagram
+
+skinparam Style strictuml
+skinparam SequenceMessageAlignment center
+
+participant "Program" as P
+participant "ISubject" as IS
+participant "Coursera" as C
+participant "IObserver" as IO
+participant "ConcreteObserverA" as COA
+
+P -> IS: new Subject()
+activate P
+activate IS
+
+IS -> C: new Subject()
+activate C
+
+C --> IS: Coursera
+deactivate C
+
+IS --> P: return Coursera
+deactivate IS
+
+P -> IO: new Observer()
+activate IO
+
+IO -> COA: new ConcreteObserverA()
+activate COA
+
+COA --> IO: ConcreteObserverA
+deactivate COA
+
+IO --> P: return ConcreteObserverA
+deactivate IO
+
+P -> C: Attach(ConcreteObserverA)
+activate C
+
+C -> COA: Attach()
+activate COA
+deactivate COA
+deactivate C
+
+P -> C: AddNews()
+activate C
+
+P -> C: Notify()
+
+C -> COA: Notify()
+deactivate C
+activate COA
+deactivate COA
+@enduml

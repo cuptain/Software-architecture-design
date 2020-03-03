@@ -1,0 +1,68 @@
+@startuml Class Diagram
+
+class "IObserver" as IO {
+    Update(subject ISubject)
+}
+
+class "ISubject" as IS  {
+    Attach(subject ISubject)
+    Detach(subject ISubject)
+    Notify()
+}
+
+class "Coursera" as C {
+    Attach(subject ISubject)
+    Detach(subject ISubject)
+    Notify()
+    AddNews()
+    AddNewCourse()
+    UpdateCourse(name string)
+}
+
+class "DataCamp" as D {
+    Attach(subject ISubject)
+    Detach(subject ISubject)
+    Notify()
+    AddNews()
+    AddNewCourse()
+    UpdateCourse(name string)
+}
+
+class "ConcreteObserverA" as COA {
+    Update(subject ISubject)
+}
+
+class "ConcreteObserverB" as COB {
+    Update(subject ISubject)
+}
+
+class "ConcreteObserverC" as COC {
+    Update(subject ISubject)
+}
+
+class "ConcreteObserverD" as COD {
+    Update(subject ISubject)
+}
+
+' class "Program" as P {
+ 
+'     Main(args[] string)
+' }
+
+IO <|-up- COA
+IO <|-up- COB
+IO <|-up- COC
+IO <|-up- COD
+COA -up-> C
+COA -up-> D
+COB -up-> C
+COB -up-> D
+COC -up-> C
+COC -up-> D
+COD -up-> C
+COD -up-> D
+IS <|-down- C
+IS <|-down- D
+
+
+@enduml
